@@ -28,10 +28,10 @@ This is a guide to download the external dataset/sets.
 -Once all is pasted in excel, highlight the only column then go to data, in data press text to column
 -In the pop up, press delimited and tick tab and comma as the delimiters, press next and finish
 -Save the file with the name nba_attendance_2018_2019 as a csv file
-There is also a youtube video to help guide: https://www.youtube.com/watch?v=MWapXbaWs_U&ab_channel=SportsReference to be exact start at the
-4:50 min mark 
+There is also a youtube video to help guide: https://www.youtube.com/watch?v=MWapXbaWs_U&ab_channel=SportsReference
+start at the 4:50 min mark 
 
-**Research Goal:** My research goal is Does the New York Knicks playing influence taxi profits within New York?
+**Research Goal:** My research goal is Does New York Knicks games have any influence on taxi profits and area popularity?
 
 **Timeline:** The timeline for the research area is 2018 - 2019.
 
