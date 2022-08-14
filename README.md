@@ -31,7 +31,7 @@ This is a guide to download the external dataset/sets.
 There is also a youtube video to help guide: https://www.youtube.com/watch?v=MWapXbaWs_U&ab_channel=SportsReference
 start at the 4:50 min mark 
 
-**Research Goal:** My research goal is Does New York Knicks games have any influence on taxi profits and area popularity?
+**Research Goal:** My research goal is Does New York Knicks games have any influence on taxi income, area popularity and tipping behaviour?
 
 **Timeline:** The timeline for the research area is 2018 - 2019.
 
