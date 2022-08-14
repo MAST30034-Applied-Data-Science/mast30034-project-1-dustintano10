@@ -33,7 +33,7 @@ start at the 4:50 min mark
 
 **Research Goal:** My research goal is Does New York Knicks games have any influence on taxi income, area popularity and tipping behaviour?
 
-**Timeline:** The timeline for the research area is 2018 - 2019.
+**Timeline:** The timeline for the research area is the 7 months when the nba season runs excluding the playoffs in the years 2018-2019.
 
 To run the pipeline, please visit the `scripts` directory and run the files in order:
 1. `script_download.ipynb`: This downloads the raw data into the `data/raw` directory.
