@@ -31,7 +31,7 @@ This is a guide to download the external dataset/sets.
 There is also a youtube video to help guide: https://www.youtube.com/watch?v=MWapXbaWs_U&ab_channel=SportsReference
 start at the 4:50 min mark 
 
-**Research Goal:** My research goal is Does New York Knicks home games have any influence area popularity for taxis and fhvs?
+**Research Goal:** My research goal is Does New York Knicks home games influence yellow taxi demand to and from Manhattan?
 
 **Timeline:** The timeline for the research area is the 7 months when the nba season runs excluding the playoffs in the years 2018-2019.
 
