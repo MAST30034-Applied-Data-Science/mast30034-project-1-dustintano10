@@ -38,13 +38,16 @@ This is a guide to download the external dataset/sets.
 There is also a youtube video to help guide: https://www.youtube.com/watch?v=MWapXbaWs_U&ab_channel=SportsReference
 start at the 4:50 min mark 
 
-**Research Goal:** My research goal is Tipping classification for Yellow Taxi's in relation to the New York Knicks playing
+**Research Goal:** My research goal is Tipping prediction for Yellow Taxi's in relation to the New York Knicks playing
 
 **Timeline:** The timeline for the research area is the 7 months when the nba season runs excluding the playoffs in the years 2018-2019.
 
 To run the pipeline, please visit the `scripts` directory and run the files in order:
 1. `script_download.ipynb`: This downloads the raw data into the `data/raw` directory.
+
+To run the files please visit the notebook folder and run the files in order:
+1. `preprocess_nba_attendance.ipynb` : This notebook details all preprocessing for the nba_attendance dataset and outputs it to the `data/curated` directory.
 2. `preprocess_taxi.ipynb`: This notebook details all preprocessing for the yellow_taxi dataset and outputs it to the `data/curated/yellow` directory.
-3. `preprocess_nba_attendance.ipynb : This notebook details all preprocessing for the nba_attendance dataset and outputs it to the `data/curated` directory.
-3. `analysis.ipynb`: This notebook is used to conduct analysis on the curated data.
-4. `model.py` and `model_analysis.ipynb`: The script is used to run the model from CLI and the notebook is used for analysing and discussing the model.
+3. `preprocess_aggregate.ipynb` : This notebook details aggregation for preprocessed taxi data files are outputted in the `data/curated/yellow` directory.
+4. `analysis.ipynb`: This notebook is used to conduct analysis on the curated data plots are outputted in the `plots/` directory.
+5. `modelling.ipynb`: The ipynb is used to run the model and produce summary statistics these summary statistics are then made into nice tables.
