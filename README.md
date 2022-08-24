@@ -22,12 +22,19 @@ Remember, we will be reading through and running your code, so it is in _your be
 This is a guide to download the external dataset/sets. 
 1. Nba 2018-2019 attendance dataset
 -Go to this link: https://www.basketball-reference.com/leagues/NBA_2019_games.html
+
 -Once in the link see the share and export dropdown and use get table as csv
+
 -Once format changes to csv copy and paste it into an excel file (for the first month, also copy and paste the column names: Date,Start,etc.)
+
 -Do this for the months from October-April (this can be done by just pressing the months and repeating the 2nd and 3rd step)
+
 -Once all is pasted in excel, highlight the only column then go to data, in data press text to column
+
 -In the pop up, press delimited and tick tab and comma as the delimiters, press next and finish
+
 -Save the file with the name nba_attendance_2018_2019 as a csv file
+
 There is also a youtube video to help guide: https://www.youtube.com/watch?v=MWapXbaWs_U&ab_channel=SportsReference
 start at the 4:50 min mark 
 
